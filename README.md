@@ -4,12 +4,12 @@ A simple and beginner-friendly chatbot built using Python. It uses rule-based lo
 
 🚀 Features
 
-💬 Interactive command-line chatbot
-🧠 Rule-based responses using if-else logic
-📚 FAQ system using dictionary mapping
-⏰ Displays real-time current time
-👋 Handles greetings and exit commands
-🧹 Input cleaning for better accuracy
+ Interactive command-line chatbot
+ Rule-based responses using if-else logic
+ FAQ system using dictionary mapping
+ Displays real-time current time
+ Handles greetings and exit commands
+ Input cleaning for better accuracy
 
 
 🛠️ Tech Stack
