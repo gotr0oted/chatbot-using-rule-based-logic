@@ -18,13 +18,13 @@ Python
 Regular Expressions (re)
 Datetime
 
-⚙️ How It Works
-User inputs a message
-Text is cleaned (lowercase + remove extra spaces)
+## ⚙️ How It Works
 
-Bot checks for:
-Greetings
-Time queries
-Exit commands
-FAQ keywords
-Returns the most relevant response
+- User inputs a message  
+- Text is cleaned (lowercase + remove extra spaces)  
+- Bot checks for:
+  - Greetings  
+  - Time queries  
+  - Exit commands  
+  - FAQ keywords  
+- Returns the most relevant response  
